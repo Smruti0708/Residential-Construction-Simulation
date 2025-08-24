@@ -14,6 +14,9 @@ The objective was to develop a **Work Breakdown Structure (WBS)** and detailed p
 The simulation applied professional project management practices to plan tasks, allocate resources, and manage costs under realistic constraints.  
 
 ---
+## Project Outcome
+![Dashboard Screenshot](https://github.com/Smruti0708/Residential-Construction-Simulation/blob/main/Main%20Project.%20img%201.png)
+
 
 ## 🛠️ Key Deliverables  
 - **Microsoft Project Schedule (`.mpp`)** – Editable project plan with all tasks, dependencies, and resources.  
@@ -38,5 +41,6 @@ The simulation applied professional project management practices to plan tasks, 
 - **Gantt Chart** – Timeline of all activities with dependencies.  
 - **Network Diagram** – Critical Path Method (CPM) view.  
 - **Resource Usage Reports** – Labor and material allocation across phases.  
+
 
 
