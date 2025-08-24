@@ -16,6 +16,11 @@ The simulation applied professional project management practices to plan tasks, 
 ---
 ## Project Outcome
 ![Dashboard Screenshot](https://github.com/Smruti0708/Residential-Construction-Simulation/blob/main/Main%20Project.%20img%201.png)
+![Dashboard Screenshot](https://github.com/Smruti0708/Residential-Construction-Simulation/blob/main/Main%20Project.%20img%202.png)
+![Dashboard Screenshot](https://github.com/Smruti0708/Residential-Construction-Simulation/blob/main/Main%20Project.%20img%203.png)
+![Dashboard Screenshot](https://github.com/Smruti0708/Residential-Construction-Simulation/blob/main/Main%20Project.%20img%204.png)
+![Dashboard Screenshot](https://github.com/Smruti0708/Residential-Construction-Simulation/blob/main/Sub%20Project.%20img%201.png)
+![Dashboard Screenshot](https://github.com/Smruti0708/Residential-Construction-Simulation/blob/main/Sub%20Project.%20img%202.png)
 
 
 ## 🛠️ Key Deliverables  
@@ -41,6 +46,7 @@ The simulation applied professional project management practices to plan tasks, 
 - **Gantt Chart** – Timeline of all activities with dependencies.  
 - **Network Diagram** – Critical Path Method (CPM) view.  
 - **Resource Usage Reports** – Labor and material allocation across phases.  
+
 
 
 
